@@ -53,7 +53,7 @@
 </script>
 
 <style lang="scss" scoped>
-@import '~@/assets/css/_variable.scss';
+@import '~@/assets/css/variables.scss';
   .header{
     box-shadow: 0 0 30px  rgb(185, 185, 185);
     font-size: .8em;
